@@ -1,9 +1,10 @@
 # humanstxt.org/
 
-# TEAM
+/* TEAM */
+Troy Ready
 
-	Your name - your home
+/* THANKS */
+Sérgio Kopplin
 
-# TECHNOLOGY
-
-	HTML5, CSS3, JS, JEKYLL
+/* SITE */
+indigo jekyll template: https://github.com/sergiokopplin/indigo

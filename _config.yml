@@ -1,20 +1,20 @@
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Troy Ready
+bio: 'Professional Geek'
 picture: 'assets/images/profile.jpg'
 
-url: http://sergiokopplin.github.io/indigo
+url: https://troyready.com
 permalink: /:title/
 
 analytics: 'UA-MYANALYTICS'
-disqus: mydisqus
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-email: myemail@gmail.com
+disqus: troyready
+facebook: troyready
+twitter: troyready
+googleplus: +TroyReady
+instagram: 
+linkedin: in/troyready
+youtube: user/troyready
+github: troyready
+email: myfirstname@myfirstnamemylastname.com
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor]
 
@@ -27,4 +27,4 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://troyready.com
