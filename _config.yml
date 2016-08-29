@@ -2,7 +2,7 @@ name: Troy Ready
 bio: 'Professional Geek'
 picture: 'assets/images/profile.jpg'
 
-url: https://troyready.com
+url: http://troyready.com
 permalink: /:title/
 
 analytics: 'UA-MYANALYTICS'
@@ -27,4 +27,4 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: https://troyready.com
+    base_url: http://troyready.com
