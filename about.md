@@ -1,8 +1,9 @@
 ---
 title: About
+permalink: "/about/index.html"
 layout: page
-permalink: /about/index.html
 ---
+
 #About
 
 <style>
